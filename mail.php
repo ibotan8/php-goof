@@ -10,6 +10,7 @@
     	header('Location: index.php');
 	}
 
+
 	$msg = '';
 
 	if (isset($_POST['email'])){
